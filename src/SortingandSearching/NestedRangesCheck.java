@@ -82,5 +82,6 @@ class NestedRangesCheck {
             }
             System.out.println();
         }
+
     }
 }
