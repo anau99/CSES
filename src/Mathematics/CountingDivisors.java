@@ -17,6 +17,7 @@ public class CountingDivisors {
                     else cnt+=2;
                 }
             }
+            if(n==1)cnt--;
             System.out.println(cnt);
         }
     }
